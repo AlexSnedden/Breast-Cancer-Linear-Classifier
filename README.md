@@ -1,2 +1,2 @@
-# Breast-Cancer-Perceptron
-An IPython notebook I made to document and share my venture.
+# Breast-Cancer-Linear-Classifier
+A single layer neural network to classify cells as cancerous ot not.
